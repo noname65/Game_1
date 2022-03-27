@@ -1,0 +1,171 @@
+25,20
+layer1
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+ 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup, 0,  0,  1dlrup,
+layer2
+ 0,  5,  1dlruP, 1,  5,  1dlruP, 2,  5,  1dlruP, 3,  5,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  6,  1dlruP, 1,  6,  1dlruP, 2,  6,  1dlruP, 3,  6,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  7,  1dlruP, 1,  7,  1dlruP, 2,  7,  1dlruP, 3,  7,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  8,  1dlruP, 1,  8,  1dlruP, 2,  8,  1dlruP, 3,  8,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  9,  1dlrup, 1,  9,  1DLRUp, 2,  9,  1DLRUp, 3,  9,  1dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0, 13,  1dlruP, 1, 13,  1dlruP, 2, 13,  1dlruP, 3, 13,  1dlruP, 4, 13,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0, 14,  1dlruP, 1, 14,  1dlruP, 2, 14,  1dlruP, 3, 14,  1dlruP, 4, 14,  1dlruP, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0, 15,  1DLRUp, 1, 15,  1DLRUp, 2, 15,  1DLRUp, 3, 15,  1DLRUp, 4, 15,  1DLRUp, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0, 16,  1DLRUp, 1, 16,  1DLRUp, 2, 16,  1DLRUp, 3, 16,  1DLRUp, 4, 16,  1DLRUp, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0, 17,  1DLRUp, 1, 17,  1DLRUp, 2, 17,  1dlrup, 3, 17,  1DLRUp, 4, 17,  1DLRUp, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+layer3
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+layer4
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+ 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup, 0,  0,  0dlrup,
+Event:6
+
+ID:0
+name:test
+x:19
+y:14
+icon:001-npc01.png
+passable:DLRU
+triggerMode:0
+state:0
+orientation:0
+Page:1
+P1
+EMessage,testabc\n1234567890\nABCDEFGHIJKLMNOPQRSTUVWXYZ;:'"/\\?.><|[{]}=+-_)(*&^%$#@!~`,
+Ewait,3000,
+EMessage,\V[0]\nzxc\c[255:0:0:255]asd\C[0:255:0:255]dsa\c[0:0:255:255]qwe\c[255:255:255:50]ewq,
+EV,+=c,0,1,
+endPage
+
+ID:1
+name:DOWN
+x:5
+y:11
+icon:Item01-10.png
+passable:Dlru
+triggerMode:0
+state:2
+orientation:1
+Page:1
+P1
+endPage
+
+ID:2
+name:LEFT
+x:15
+y:9
+icon:Item01-10.png
+passable:dLru
+triggerMode:0
+state:0
+orientation:2
+Page:1
+P1
+endPage
+
+ID:3
+name:RIGHT
+x:7
+y:13
+icon:Item01-10.png
+passable:dlRu
+triggerMode:0
+state:3
+orientation:1
+Page:1
+P1
+endPage
+
+ID:4
+name:UP
+x:10
+y:8
+icon:Item01-10.png
+passable:dlrU
+triggerMode:0
+state:1
+orientation:2
+Page:1
+P1
+endPage
+
+ID:5
+name:none
+x:2
+y:14
+icon:none
+passable:dlru
+triggerMode:1
+state:0
+orientation:0
+Page:1
+P1
+EswitchMap,1,1,1,
+endPage
+
+endEvent
